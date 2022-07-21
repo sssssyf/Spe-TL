@@ -1,7 +1,7 @@
 # Spe-TL
 From Video to Hyperspectral: Hyperspectral Image-level Feature Extraction with Transfer Learning
 
-#Requirements
+# Requirements
 cupy>=5.0.0
 numpy>=1.15.0
 Pillow>=5.0.0
