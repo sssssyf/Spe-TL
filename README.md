@@ -1,6 +1,8 @@
 # Spe-TL
 Sun, Y.; Liu, B.; Yu, X.; Yu, A.; Gao, K.; Ding, L. From Video to Hyperspectral: Hyperspectral Image-Level Feature Extraction with Transfer Learning. Remote Sens. 2022, 14, 5118. https://doi.org/10.3390/rs14205118
 
+If the code is helpful to you, please give a star or fork and cite the paper. Thanks!
+
 # Setup
 The correlation layer is implemented in CUDA using CuPy, and the CuPy installation requires to correspond to the CUDA version. 
 
