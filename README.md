@@ -13,7 +13,6 @@ Pillow>=5.0.0
 torch>=1.6.0
 getopt
 math
-numpy
 sys
 scipy
 tqdm
