@@ -16,7 +16,7 @@ math
 numpy
 sys
 scipy
-tqdm import tqdm
+tqdm
 sklearn
 time
 datetime
